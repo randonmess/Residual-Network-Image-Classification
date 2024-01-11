@@ -7,4 +7,4 @@ Using TensorFlow/Keras, the Identity Block and Convolution Block of a Residual N
 - Implement a skip connection in your network
 
 ## Results
-The model acheived a 78% accuracy score on a test set of 120.
+The model acheived a 78% accuracy score on a test set of 120 after 10 epochs.
